@@ -1,6 +1,6 @@
 # mysql-database
 
-MySQL database.
+Creating a MySQL database.
 
 ## pieniyritys-tietokanta
 
