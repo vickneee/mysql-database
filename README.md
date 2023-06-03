@@ -22,4 +22,6 @@ In the project directory, you can run:
 
     node PieniYritysServer.js
     
-Open http://localhost:8500 to view query in your browser.
+The results will be displayed on your terminal.
+
+
