@@ -18,7 +18,7 @@ To create Relational Schema use:
 
 To create Description of connections use:
 
-dbdiagram.io - Database Relationship Diagrams Design Tool![image](https://github.com/vickneee/mysql-database/assets/93821265/4760fa8d-1ef8-48f5-adfe-7128fecfcb81)
+[Database Relationship Diagrams Design Tool](https://dbdiagram.io/home/)
 
 <img width="935" alt="Yhteyksien kuvaus" src="https://github.com/vickneee/mysql-database/assets/93821265/3957178f-5356-403a-8a04-19b9bac7a206">
 
