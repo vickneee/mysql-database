@@ -16,11 +16,13 @@ To create Description of connections use: [Database Relationship Diagrams Design
 
 <img width="935" alt="Yhteyksien kuvaus" src="https://github.com/vickneee/mysql-database/assets/93821265/3957178f-5356-403a-8a04-19b9bac7a206">
 
-Creation sentences can be created on:[ERDPlus](https://erdplus.com/)
+SQL creation sentences can be created on: [ERDPlus](https://erdplus.com/)
 
 To create tables in MySQL, use the following SQL commands: 
 
 <img width="483" alt="Screenshot 2023-06-03 at 14 23 30" src="https://github.com/vickneee/mysql-database/assets/93821265/386d5630-3cec-4ca5-a58b-5ba5f7ebd1d2">
+
+After that, you can insert data into the database. 
 
 If you have created and added data to the database, you can then run the following command in the project directory:
 
