@@ -10,7 +10,11 @@ Using a MySQL database in practice.
 
 <img width="935" alt="Yhteyksien kuvaus" src="https://github.com/vickneee/mysql-database/assets/93821265/3957178f-5356-403a-8a04-19b9bac7a206">
 
-XXX
+In the project directory, you can run:
+
+  node ConnectPieniYritys.js
+    
+Open http://localhost:8500 to view query in your browser.
 
 <img width="1323" alt="Screenshot 2023-06-03 at 3 06 09" src="https://github.com/vickneee/mysql-database/assets/93821265/f432c0b9-43a9-4d9a-a0ee-ff91d2ea96aa">
 
