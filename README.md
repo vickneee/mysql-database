@@ -6,7 +6,7 @@ Using a MySQL database in practice.
 
 To create ER Diagram use:
 
-[ER](https://erdplus.com/)
+[ERDPlus](https://erdplus.com/)
 
 <img width="916" alt="ER Diagram" src="https://github.com/vickneee/mysql-database/assets/93821265/a6659f3f-e1c4-4d6d-8c8e-551814227217">
 
