@@ -1,7 +1,8 @@
 function CreateHTML(s) {
 	let html =
 	`<html style="font-family: sans-serif;"  lang="en"> 
-	<body style="display: flex; flex-direction: column; justify-content: center; align-items: center; height: 100vh; background: #f1fefe;">
+	<body style="display: flex; flex-direction: column; justify-content: center; align-items: center; height: 100vh; background-color:#fefefe;;
+">
 	<form action=/Query method=POST>
 	<button type=submit style="background: green; padding: 10px 20px; color: white; border: 1px solid #333;">Run Query</button>
 	<br><br>
