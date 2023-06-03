@@ -16,8 +16,8 @@ CREATE TABLE Tyoskentelee (
   Tnro INT NOT NULL,
   Aloituspvm DATE NOT NULL,
   PRIMARY KEY (Tnro, Onro),
-  FOREIGN KEY (Tnro) REFERENCES Tyontekija(Tnro),
   FOREIGN KEY (Onro) REFERENCES Osasto(Onro));
+  FOREIGN KEY (Tnro) REFERENCES Tyontekija(Tnro),
 
 
 insert into Tyontekija (Tnro, Enimi, Snimi, Spvm, Sp) values
