@@ -16,7 +16,9 @@ To create Description of connections use: [Database Relationship Diagrams Design
 
 <img width="935" alt="Yhteyksien kuvaus" src="https://github.com/vickneee/mysql-database/assets/93821265/3957178f-5356-403a-8a04-19b9bac7a206">
 
-To create tables in MySQL, use the following SQL commands: [ERDPlus](https://erdplus.com/)
+Creation sentences can be created on:[ERDPlus](https://erdplus.com/)
+
+To create tables in MySQL, use the following SQL commands: 
 
 <img width="483" alt="Screenshot 2023-06-03 at 14 23 30" src="https://github.com/vickneee/mysql-database/assets/93821265/386d5630-3cec-4ca5-a58b-5ba5f7ebd1d2">
 
@@ -24,7 +26,7 @@ If you have created and added data to the database, you can then run the followi
 
     node ConnectPieniYritys.js
     
-Open http://localhost:8500 to view query in your browser.
+Open http://localhost:8500 to view the query results in your browser.
 
 <img width="1323" alt="Screenshot 2023-06-03 at 3 06 09" src="https://github.com/vickneee/mysql-database/assets/93821265/f432c0b9-43a9-4d9a-a0ee-ff91d2ea96aa">
 
