@@ -30,15 +30,10 @@ In the project directory, you can run:
     
 The query results will be displayed in your terminal.
 
-<img width="311" alt="Screenshot 2023-06-03 at 4 00 48" src="https://github.com/vickneee/mysql-database/assets/93821265/9f85544c-d585-4874-b716-2ec1aee7fa47">
+<img width="470" alt="Screenshot 2023-06-03 at 4 40 52" src="https://github.com/vickneee/mysql-database/assets/93821265/227418d7-f372-48a4-9aa8-c15fcc417170">
 
-<img width="666" alt="Screenshot 2023-06-03 at 4 01 25" src="https://github.com/vickneee/mysql-database/assets/93821265/cb382325-83d4-4d89-a7e7-e8fa45debbff">
+<img width="748" alt="Screenshot 2023-06-03 at 4 41 14" src="https://github.com/vickneee/mysql-database/assets/93821265/868499dd-352b-447f-8d6c-61d9d3a433b5">
 
-<img width="374" alt="Screenshot 2023-06-03 at 4 01 51" src="https://github.com/vickneee/mysql-database/assets/93821265/1d8db2bd-b245-4967-8b02-f3f4bbba40d8">
+<img width="502" alt="Screenshot 2023-06-03 at 4 41 35" src="https://github.com/vickneee/mysql-database/assets/93821265/e2a9dc81-5eb3-4ab8-ae07-38c38acb5674">
 
-<img width="638" alt="Screenshot 2023-06-03 at 4 02 17" src="https://github.com/vickneee/mysql-database/assets/93821265/b13db8b0-1a9e-42d1-99b9-055f08f57430">
-
-
-
-
-
+<img width="761" alt="Screenshot 2023-06-03 at 4 41 53" src="https://github.com/vickneee/mysql-database/assets/93821265/b9b6c13b-4f64-4358-b03d-e5e9b371f719">
