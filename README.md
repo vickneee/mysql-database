@@ -30,7 +30,7 @@ If you have created and added data to the database, you can then run the followi
     
 Open http://localhost:8500 to view the query results in your browser.
 
-<img width="1323" alt="Screenshot 2023-06-03 at 3 06 09" src="https://github.com/vickneee/mysql-database/assets/93821265/f432c0b9-43a9-4d9a-a0ee-ff91d2ea96aa">
+<img width="1639" alt="Screenshot 2023-06-03 at 15 00 48" src="https://github.com/vickneee/mysql-database/assets/93821265/f3317a4e-0477-4a01-b7b6-f84e2a4f567d">
 
 In the project directory, you can run:
 
