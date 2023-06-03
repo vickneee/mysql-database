@@ -1,6 +1,6 @@
 # mysql-database
 
-The actual use of a MySQL database.
+Using a MySQL database in practice.
 
 ## pieniyritys-tietokanta
 
