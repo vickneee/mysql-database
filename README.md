@@ -1,5 +1,7 @@
 # mysql-database
 
+The actual use of a MySQL database.
+
 ## urheilija-tietokanta
 
 <img width="1208" alt="Screenshot 2023-02-16 at 16 33 47" src="https://github.com/vickneee/mysql-database/assets/93821265/36b489d6-b40c-48d4-ad7b-1768d19e1a80">
