@@ -12,7 +12,7 @@ To create Relational Schema use: [ERDPlus](https://erdplus.com/)
 
 <img width="801" alt="Relational Schema" src="https://github.com/vickneee/mysql-database/assets/93821265/6a21890b-205e-4ba1-9899-851dafd96bd6">
 
-To create Description of connections use:[Database Relationship Diagrams Design Tool](https://dbdiagram.io/home/)
+To create Description of connections use: [Database Relationship Diagrams Design Tool](https://dbdiagram.io/home/)
 
 <img width="935" alt="Yhteyksien kuvaus" src="https://github.com/vickneee/mysql-database/assets/93821265/3957178f-5356-403a-8a04-19b9bac7a206">
 
