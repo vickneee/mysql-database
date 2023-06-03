@@ -28,7 +28,7 @@ In the project directory, you can run:
 
     node PieniYritysServer.js
     
-The results will be displayed on your terminal.
+The query results will be displayed in your terminal.
 
 <img width="311" alt="Screenshot 2023-06-03 at 4 00 48" src="https://github.com/vickneee/mysql-database/assets/93821265/9f85544c-d585-4874-b716-2ec1aee7fa47">
 
