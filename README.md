@@ -1,6 +1,6 @@
 # mysql-database
 
-Using a MySQL database in practice.
+MySQL database.
 
 ## pieniyritys-tietokanta
 
